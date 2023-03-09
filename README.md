@@ -2,6 +2,8 @@
 
 JungleVote is a decentralized application (dApp) built on the Ethereum blockchain using Solidity smart contracts. It allows animals to participate in fair and transparent elections in the jungle, where they can vote for their preferred candidates without fear of manipulation or fraud.
 
+![Alt text](/assets/img/theme.jpg)
+
 ## Getting started
 
 [Update later]
